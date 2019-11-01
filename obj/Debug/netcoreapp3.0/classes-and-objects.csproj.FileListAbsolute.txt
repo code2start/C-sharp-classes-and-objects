@@ -1,0 +1,11 @@
+C:\csharp\ar\classes-and-objects\bin\Debug\netcoreapp3.0\classes-and-objects.exe
+C:\csharp\ar\classes-and-objects\bin\Debug\netcoreapp3.0\classes-and-objects.deps.json
+C:\csharp\ar\classes-and-objects\bin\Debug\netcoreapp3.0\classes-and-objects.runtimeconfig.json
+C:\csharp\ar\classes-and-objects\bin\Debug\netcoreapp3.0\classes-and-objects.runtimeconfig.dev.json
+C:\csharp\ar\classes-and-objects\bin\Debug\netcoreapp3.0\classes-and-objects.dll
+C:\csharp\ar\classes-and-objects\bin\Debug\netcoreapp3.0\classes-and-objects.pdb
+C:\csharp\ar\classes-and-objects\obj\Debug\netcoreapp3.0\classes-and-objects.csprojAssemblyReference.cache
+C:\csharp\ar\classes-and-objects\obj\Debug\netcoreapp3.0\classes-and-objects.AssemblyInfoInputs.cache
+C:\csharp\ar\classes-and-objects\obj\Debug\netcoreapp3.0\classes-and-objects.AssemblyInfo.cs
+C:\csharp\ar\classes-and-objects\obj\Debug\netcoreapp3.0\classes-and-objects.dll
+C:\csharp\ar\classes-and-objects\obj\Debug\netcoreapp3.0\classes-and-objects.pdb
